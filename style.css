@@ -1,0 +1,176 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bgm{
+    background-image:  url(donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+
+}
+.mainh{
+    color: white;
+    text-align: center;
+    padding-top: 65px;
+    
+}
+#big{
+    font-size: 70px;
+}
+#dt{
+    color: white;
+    background-color: coral;
+    margin-left: 650px;
+    margin-right: 650px;
+    height: 50px;
+    border-radius: 6px;
+    padding-top: 16px;
+
+ }
+
+
+
+.donate{
+    text-align: center;
+    margin-left: 370px;
+    margin-right: 370px;
+}
+.Donate{
+    color: white;
+    background-color: coral;
+    margin-left: 280px;
+    margin-right: 280px;
+    height: 50px;
+    border-radius: 6px;
+    padding-top: 16px;
+}
+.dis{
+    text-align: center;
+}
+#fu{
+    font-size: 50px;
+    color: black;
+    background-color: azure;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.box{
+    background-color: rgba(82, 72, 72, 0.259);
+    height: 90px;
+    width: 150px;
+    margin-left: 10px;
+    padding-top: 50px;
+}
+.tomato{
+    color: tomato;
+    background-color: rgba(222, 99, 77, 0.56);
+    height: 90px;
+    width: 150px;
+    margin-left: 10px;
+    padding-top: 50px;
+    border: solid tomato;
+}
+.donate-plan{
+    text-align: center;
+    padding-top: 40px;
+
+}
+#plan{
+    font-size: 45px;
+    background-color: azure;
+    color: black;
+}
+.chart{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.content{
+    background-color: rgba(33, 84, 236, 0.374);
+    text-align: left;
+    height: 450px;
+    padding-left: 10px;
+    width: 400;
+    padding-top: 40px;
+}
+.sec-cot{
+    background-color: rgba(23, 236, 236, 0.347);
+    text-align: left;
+    height: 450px;
+    padding-left: 10px;
+    width: 400px;
+    margin-left: 15px;
+    padding-top: 40px;
+}
+.trd-cot{
+    background-color: rgba(255, 255, 0, 0.525);
+    text-align: left;
+    height: 450px;
+    padding-left: 10px;
+    width: 400px;
+    margin-left: 15px;
+    padding-top: 40px;
+}
+.boat{
+    display: flex;
+    align-items: center;
+}
+.hands-up{
+    padding-top: 150px;
+    margin-left: 50px;
+    border-radius: 5px;
+    
+    
+}
+.food-is{
+    width: 500px;
+    padding-top: 110px;
+    padding-left: 230px;
+    height: 400;
+    font-size: 20px;
+}
+.contribute{
+    background-color: coral; width: 300px;
+    height: 50px;
+    padding-left: 5px;
+    border-radius: 6px;
+    padding-top: 5px;
+}
+.baby{
+    display: flex;
+    align-items: center;
+    
+    
+}
+.survive{
+    width: 500px;
+    margin-left: 10px;
+    padding-left: 20px;
+    height: 500px;
+    padding-top: 60px;
+    font-size: 20px;
+
+}
+.mother{
+    padding-left: 300px;
+}
+.in{
+    text-align: center;
+    background-color: rgba(252, 232, 11, 0.211); height: 200px;
+    padding-top: 120px;
+    border-bottom: 60px;
+
+}
+.get{
+    font-size: 17px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
